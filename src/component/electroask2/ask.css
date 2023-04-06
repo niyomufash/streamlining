@@ -1,0 +1,10 @@
+.help button {
+    color: #014d40;
+}
+.ibibazo {
+    /* background-color: #F3F6F9; */
+    background-color: white;
+    box-shadow: 0px 0px 9px 0px #f3f3f3;
+   
+    padding: 35px;
+}

@@ -1,0 +1,20 @@
+.cards {
+
+    display: grid;
+    grid-template-columns: 40% 40% ;
+    grid-gap: 30px;
+    width: 100%;
+    /* justify-content: center; */
+}
+
+.btn {
+    color: white;
+}
+.line {
+    color: brown;
+    
+}
+.card11{
+    padding: 3rem;
+    box-shadow: 0px 0px 9px 0px #f3f3f3;
+}
